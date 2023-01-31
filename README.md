@@ -1,22 +1,19 @@
-# RASNet
+# Object Detection in 20 Years: A Survey
 
-Official Implement of the Paper "Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations"
+Official Repository of the Paper "Object Detection in 20 Years: A Survey"
 
 ## Some Information
 
-[Project Page](https://kyanchen.github.io/RASNet/) $\cdot$ [Publication Page](https://ieeexplore.ieee.org/abstract/document/9980428/) $\cdot$ [PDF Download](http://levir.buaa.edu.cn/publications/RASNet.pdf)
-
+[Project Page](https://kyanchen.github.io/ODSurvey/) $\cdot$ [Publication Page](https://ieeexplore.ieee.org/document/10028728) $\cdot$ [PDF Download](https://arxiv.org/abs/1905.05055)
 
 ```
-@ARTICLE{9980428,
-  author={Chen, Keyan and Li, Wenyuan and Chen, Jianqi and Zou, Zhengxia and Shi, Zhenwei},
-  journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/LGRS.2022.3228287}}
+@article{zou2023object,
+  title={Object detection in 20 years: A survey},
+  author={Zou, Zhengxia and Chen, Keyan and Shi, Zhenwei and Guo, Yuhong and Ye, Jieping},
+  journal={Proceedings of the IEEE},
+  year={2023},
+  publisher={IEEE}
+}
 ```
 
 If you have any questions, please feel free to reach me.
